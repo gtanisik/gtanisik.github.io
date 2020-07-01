@@ -6,7 +6,9 @@ To evaluate our method, we have extended already existing HII dataset. There are
 
 The figure below illustrates example images from this dataset. Two example images are shown for each of the ten classes for this dataset, boxing-punching, dining, handshaking, highfive, hugging, kicking, kissing, partying, speech and talking. Note that, the poses and appearances of the people in interaction is quite diverse, making it a challenging dataset.
 
-## Dataset
+![Image](images/hiiv2_sample.png)
+
+## Dataset
 Human Interaction Images v2 (HIIv2) dataset will be made available upon publication of the paper.
 
 ## Reference
