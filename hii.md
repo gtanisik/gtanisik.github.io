@@ -11,7 +11,7 @@ The figure below illustrates example images from this dataset. Two example image
 Human Interaction Images (HII) dataset can be downloaded from [here](https://vision.cs.hacettepe.edu.tr/interaction_images/Facial_Descriptors_files/facial_descriptors_dataset.zip), and the annotations for the dataset can be downloaded from [here](https://vision.cs.hacettepe.edu.tr/interaction_images/Facial_Descriptors_files/facial_descriptors_dataset_annotations.zip).
 
 ## Reference
-Gokhan Tanisik, Cemil Zalluhoglu, Nazli Ikizler-Cinbis, Facial Descriptors for Human Interaction Recognition In Still Images, Pattern Recognition Letters, 2016, ISSN 0167-8655, [Original Paper](http://www.sciencedirect.com/science/article/pii/S0167865516000064) [arXiv Pre-print](http://arxiv.org/abs/1509.05366)
+Gokhan Tanisik, Cemil Zalluhoglu, Nazli Ikizler-Cinbis, Facial Descriptors for Human Interaction Recognition In Still Images, Pattern Recognition Letters, 2016, ISSN 0167-8655, [[Original Paper](http://www.sciencedirect.com/science/article/pii/S0167865516000064)] [[arXiv Pre-print](http://arxiv.org/abs/1509.05366)]
 
 ## Acknowledgment
 This work was supported in part by the Scientific and Technological Research Council of Turkey (TUBITAK) Career Development Award numbered 112E149.
