@@ -16,7 +16,7 @@ Initial version of HII dataset is available [here](https://gtanisik.github.io/pr
 
 ## Paper
 
-* Multi-stream pose convolutional neural networks for human interaction recognition in images [paper](https://www.sciencedirect.com/science/article/pii/S0923596521001119?dgcid=author)
+* Multi-stream pose convolutional neural networks for human interaction recognition in images [[paper](https://www.sciencedirect.com/science/article/pii/S0923596521001119?dgcid=author)]
 
 ```
     @article{TANISIK2021116265,
