@@ -9,10 +9,42 @@ The figure below illustrates example images from this dataset. Two example image
 ![Image](images/hiiv2_sample.png)
 
 ## Dataset
-Human Interaction Images v2 (HIIv2) dataset will be made available upon publication of the paper.
+Human Interaction Images v2 (HIIv2) dataset will be made available upon publication of the paper. Initial version of HII dataset is available [here](https://gtanisik.github.io/projects/hii).
 
-## Reference
-To be defined.
+## Paper
+
+* Multi-stream pose convolutional neural networks for human interaction recognition in images [paper](https://www.sciencedirect.com/science/article/pii/S0923596521001119?dgcid=author)
+
+```
+    @article{TANISIK2021116265,
+        title     = {Multi-stream pose convolutional neural networks for human interaction recognition in images},
+        journal   = {Signal Processing: Image Communication},
+        volume    = {95},
+        pages     = {116265},
+        year      = {2021},
+        issn      = {0923-5965},
+        doi       = {https://doi.org/10.1016/j.image.2021.116265},
+        url       = {https://www.sciencedirect.com/science/article/pii/S0923596521001119},
+        author    = {Gokhan Tanisik and Cemil Zalluhoglu and Nazli Ikizler-Cinbis},
+        keywords  = {Human–human interactions, Convolutional neural networks, Poses}
+    }
+```
+* Facial descriptors for human interaction recognition in still images [[web site](https://gtanisik.github.io/projects/hii)][[original paper](http://www.sciencedirect.com/science/article/pii/S0167865516000064)] [[arXiv Pre-print](http://arxiv.org/abs/1509.05366)]
+
+```
+    @article{TANISIK201644,
+        title     = {Facial descriptors for human interaction recognition in still images},
+        journal   = {Pattern Recognition Letters},
+        volume    = {73},
+        pages     = {44-51},
+        year      = {2016},
+        issn      = {0167-8655},
+        doi       = {https://doi.org/10.1016/j.patrec.2016.01.002},
+        url       = {https://www.sciencedirect.com/science/article/pii/S0167865516000064},
+        author    = {Gokhan Tanisik and Cemil Zalluhoglu and Nazli Ikizler-Cinbis},
+        keywords  = {Human interaction recognition, Facial features, Interaction recognition in still images}
+    }
+```
 
 ## Acknowledgment
 This work was supported in part by the Scientific and Technological Research Council of Turkey (TUBITAK) Career Development Award numbered 112E149.
