@@ -1,5 +1,5 @@
 ## Hi There!
-The home page will be updated some day!
+I really wonder how on earth you visit this page :) Maybe you would prefer [my github page](https://github.com/gtanisik/).
 
 ## Projects
 [hii](https://gtanisik.github.io/projects/hii)
