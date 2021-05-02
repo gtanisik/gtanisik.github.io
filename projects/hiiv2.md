@@ -9,7 +9,7 @@ The figure below illustrates example images from this dataset. Two example image
 ![Image](images/hiiv2_sample.png)
 
 ## Dataset
-Human Interaction Images v2 (HIIv2) dataset will be made available upon publication of the paper. 
+Human Interaction Images v2 (HIIv2) dataset is available [here](https://tinyurl.com/hiiv2) for download. 
 
 
 Initial version of HII dataset is available [here](https://gtanisik.github.io/projects/hii).
